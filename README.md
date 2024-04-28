@@ -50,6 +50,13 @@ where y_test is the test data set for the target variable, and y_pred is the var
 Please don't forget to perform this step as the R-squared score on the test set holds some marks. The variable names inside the 'r2_score' function can be different based on the variable names you have chosen.
 
 =========================================
+License
+=========================================
+Use of this dataset in publications must be cited to the following publication:
+
+[1] Fanaee-T, Hadi, and Gama, Joao, "Event labeling combining ensemble detectors and background knowledge", Progress in Artificial Intelligence (2013): pp. 1-15, Springer Berlin Heidelberg, doi:10.1007/s13748-013-0040-3.
+
+=========================================
 Dataset characteristics
 =========================================	
 day.csv have the following fields:
